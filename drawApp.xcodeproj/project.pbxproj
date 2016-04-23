@@ -70,8 +70,7 @@
 				B17E54EC1CB549940067024B /* Draw.swift */,
 				B17E54E61CB544C30067024B /* Info.plist */,
 			);
-			name = drawApp;
-			path = arcPath;
+			path = drawApp;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
