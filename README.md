@@ -1,5 +1,5 @@
 # drawApp
-A study of iPhone App
+iPhone用アプリの試作
 
 拡散する丸ブラシのようなもので絵をかけます
 
